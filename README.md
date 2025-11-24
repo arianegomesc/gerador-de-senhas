@@ -18,4 +18,4 @@ Permite criar senhas personalizadas, escolhendo tamanho, letras maiúsculas, min
 
 ```bash
 git clone https://github.com/arianegomesc/gerador-de-senhas
-streamlit run frontend/app.py
+streamlit run frontend.py
